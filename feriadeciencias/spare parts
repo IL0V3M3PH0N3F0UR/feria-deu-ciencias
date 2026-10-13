@@ -1,0 +1,43 @@
+
+  
+      <footer>
+
+     <a href="PLACEHOLDER.COM">><button>boton 1</a/button>
+
+<a href="PLACEHOLDER.COM">><button>boton 2</a/button>
+
+    </footer>
+
+
+
+<li>
+    <a href="javascript:void(0)" class="dropbtn">dropdown</a>
+
+        
+     <ul class="dropdown">
+
+    <div class="dropdown-content">
+     <li> <a href="#">link 1</a></li>
+     <li><a href="#">link 2</a></li>
+     <li> <a href="#">link 3</a></li>
+    </div>
+
+   </ul>
+</li>
+
+
+
+#fer early.css
+article {
+
+  background-image: url('https://crustywindo.ws/w/images/thumb/2/22/W98_98_Third_Edition_Desktop.png/640px-W98_98_Third_Edition_Desktop.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+    width: 1800px;
+    text-align: center;
+    border-radius: 5%;
+  
+}
+
+  background: url('https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif');
+  background-size: cover;
